@@ -1,0 +1,10 @@
+1 | You're on the Titanic as it's sinking | 2 | 3
+2 | Jump off the ship | 4 | 5
+3 | Stay on the ship | 6 | 7
+4 | Swim towards a floating door | 8 | 9
+5 | Take your chances and just keep swimming | -1 | -1
+6 | Help others and die a hero | -1 | -1
+7 | Go to the bar and have one last great time as the ship sinks | -1 | -1
+8 | Get on the door | 16 | -1
+9 | Admire the craftsmanship of the door but stay in the water and keep swimming | -1 | -1
+16 | You are on the door and wait for help | -1 | -1
